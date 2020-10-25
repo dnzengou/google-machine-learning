@@ -177,8 +177,26 @@ without_extremes.plot(x='departure_delay', xlim=(-30,50), ylim=(-50,50));
 
 ![flight delay vizu](img/ai-platform-jupyterlab-py3_flight-delay.png)
 
+[notebook ](https://66456ff1502ca725-dot-us-central1.notebooks.googleusercontent.com/lab?authuser=0)
 
 
+***
 
 
+## Invoking Machine Learning APIs
+
+### Launch AI Platform Notebooks
+
+** Step 2**
+
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+
+![training data analyst repo](img/training-data-analyst-repo.png)
+
+
+## Enable APIs and Get API key
+
+
+## Invoke ML APIs from AI Platform Notebooks
+S
 
