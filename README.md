@@ -34,6 +34,7 @@ bash ingest.sh
 ### Task 4. Transform the data
 
 earthquacke data source: http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.csv
+other: https://www.usgs.gov/natural-hazards/earthquake-hazards/data-tools
 
 notebook: https://github.com/GoogleCloudPlatform/datalab-samples/blob/master/basemap/earthquakes.ipynb
 
@@ -63,8 +64,8 @@ gsutil cp earthquakes.* gs://qwiklabs-gcp-04-93b7fe1a24b6/earthquakes/
 
 
 Same for earthquackes.png
-Authenticated URL: https://storage.cloud.google.com/qwiklabs-gcp-04-93b7fe1a24b6/earthquakes/earthquakes.png
-(Public URL: https://storage.googleapis.com/qwiklabs-gcp-04-93b7fe1a24b6/earthquakes/earthquakes.png)
+* Authenticated URL: https://storage.cloud.google.com/qwiklabs-gcp-04-93b7fe1a24b6/earthquakes/earthquakes.png
+*(Public URL: https://storage.googleapis.com/qwiklabs-gcp-04-93b7fe1a24b6/earthquakes/earthquakes.png)
 
 ![earthquackes 2020-10-25](img/earthquakes_2020-10-18_2020-10-25.png)
 
